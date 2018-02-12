@@ -6,3 +6,4 @@ So far this repo and wiki includes:
 
 - Instructions for setting up workstation
 - Setting up the SwissTom
+- Installing the 3D Scanner
